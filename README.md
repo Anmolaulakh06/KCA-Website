@@ -1,26 +1,26 @@
-# College Website (Frontend Project)
+# 🎓 College Website (Frontend Project)
 
-A responsive college website built using React and Vite, designed to showcase frontend development skills.
+A responsive college website built using **React** and **Vite**, designed to showcase frontend development skills.
 
-# Features
+## 🚀 Features
 
 - React components for different sections (Home, About, Gallery, Contact)
 - Responsive design using CSS
 - React Router for navigation
 - Modern layout and smooth user experience
 
-# Tech Stack
+## 🛠️ Tech Stack
 
 - **Frontend:** React, Vite, CSS
 - **Routing:** React Router DOM
 - **Version Control:** Git & GitHub
 - **Hosting:** Vercel
 
-# Live Demo
+## 🔗 Live Demo
 
-Click here to view the live site -> (https://kca-website-three.vercel.app)
+[👉 Click here to view the live site](https://kca-website-three.vercel.app)
 
-# Project Structure
+## 📂 Project Structure
 
 src/
 ├── components/
@@ -30,7 +30,7 @@ src/
 ├── index.css
 
 
-# Author
+## 🧑‍💻 Author
 
 - **Your Name**
-- GitHub Profile -> (https://github.com/Anmolaulakh06)
+- [GitHub Profile](https://github.com/Anmolaulakh06)

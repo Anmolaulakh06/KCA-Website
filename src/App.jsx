@@ -20,7 +20,7 @@ const App = () => {
       <Navbar />
       <Hero />
       <div className="container">
-        <Title subtitle='Our PROGRAM' title='What We Offer' />
+      <Title subtitle='Our PROGRAM' title='What We Offer' />
       <Programs />
       <About setPlayState={setPlayState}/>
       <Title subtitle='Gallery' title='Campus photos' />

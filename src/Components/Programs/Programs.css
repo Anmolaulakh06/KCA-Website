@@ -5,18 +5,18 @@
     align-items: center;
     justify-content: space-between;
 }
-.program img{
-    width: 100%;
-    object-fit: cover;
-    border-radius: 10px;
-    display: block;
-}
 .program{
     flex-basis: 31%;
     height: 350px;
     overflow: hidden;
     border-radius: 10px;
     position: relative;
+}
+.program img{
+    width: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+    display: block;
 }
 .caption{
     border-radius: 10px;

@@ -54,7 +54,7 @@ const Testimonials = () => {
 
                             </div>
                         </div>
-                        <p>The campus is one of the most beautiful in India — peaceful, historic, and full of energy. From cultural festivals to sports tournaments, there’s always something happening. It truly balances education with extracurricular growth.</p>
+                        <p>The campus is one of the most beautiful in India — peaceful, historic, and full of energy. From cultural festivals to sports tournaments, there's always something happening. It truly balances education with extracurricular growth.</p>
                     </div>
                 </li>
                   <li>
@@ -80,7 +80,7 @@ const Testimonials = () => {
 
                             </div>
                         </div>
-                        <p>My three years at Khalsa College were the best of my life. I made great friends, learned valuable skills, and gained confidence. It’s more than a college — it’s a journey.</p>
+                        <p>My three years at Khalsa College were the best of my life. I made great friends, learned valuable skills, and gained confidence. It's more than a college — it's a journey.</p>
                     </div>
                 </li>
             </ul>

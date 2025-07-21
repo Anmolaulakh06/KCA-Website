@@ -3,8 +3,6 @@ import './Navbar.css'
 import logo from '../../assets/logo.png'
 import menu_icon from '../../assets/menu-icon.png'
 import { Link } from 'react-scroll';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faGraduationCap } from '@fortawesome/free-solid-svg-icons';
 import colg_logo from "../../assets/colg_logo.png"
 
 
